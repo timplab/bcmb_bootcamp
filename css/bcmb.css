@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/* BCMB Bootcamp-specific theming */
+
+/* JHU Color Palette*/
+/*
+$HeritageBlue		: #002D72;
+$SpiritBlue			: #68ACE5;
+$SecondaryGreen		: #009B77;
+$SecondaryYellow	: #F1C400;
+$AccentGreen		: #286140;
+$AccentGreenYellow	: #719949;
+$AccentRed			: #76232F;
+*/
+
+/* change the navbar background color */
+.navbar-custom {
+/*    background-color: #002D72;*/
+	background-image: -webkit-linear-gradient(285deg, #002D72 25%, #305DA2CC 100%);
+	background-image: -o-linear-gradient(285deg, #002D72 25%, #305DA2CC 100%);
+	background-image: linear-gradient(15deg, #002D72 25%, #305DA2CC 100%);
+	/*background-image: linear-gradient(15deg, #002D72 25%, #88AAFF 100%);*/
+}
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: rgba(255,255,255,.8);
+}
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:focus .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #F1C400;
+}
