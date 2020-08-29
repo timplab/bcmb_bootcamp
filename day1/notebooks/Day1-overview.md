@@ -8,7 +8,7 @@ Day 1 - Intro to the command line, cloud access, and python
     
 ## 9:30-11:00 - Morning Module
 
-### Lecture
+### Live Coding
     - The *nix operating system
         + why?
     - How do I remotely (or locally) access a *nix system
@@ -17,37 +17,25 @@ Day 1 - Intro to the command line, cloud access, and python
         + File manipulation (ls, cat)
         + grep
     - Intro to version control with git and github
-    
-### Group Assignment
-    - Connect to Azure Instances (logging in)
-    - Open and explore JupyterLab
-    - Command line exercises (build a project file structure)
-    - Brief introduction to version control with git
-
-### Group Presentation
 
 ## 11:00-1:00 - Lunch Exercises
-    - Downloading data
-    - CLI-based sequence analysis
-    - BLAST
 
-## 1:00-2:00 - Q/A session/Lecture
+### Group Assignment
+    - Command line exercises
+    - Free play with git and GitHub to explore
 
-## 2:00-3:30 - Afternoon Module
+## 1:00-3:30 - Afternoon Module
 
-### Lecture
+### Live Coding - python
     - What is python?
     - Navigating python via notebooks
     - Basic Data Types
     - Importing Data
-    - Pandas and intro to Data Frames
+    - Functions
+    - Modules
 
-### Group Assignment
-    - Download, import, clean example dataset
-    - Summary statistics
-    - Basic Plotting
-    
+### Live Coding - biopython
+
 ### Group Presentation
     
-## 3:30-4:00 - Homework Assignment
-    - Develop your own notebook(s) 
+## 3:30-4:00 - Homework Assignment and daily wrap up
