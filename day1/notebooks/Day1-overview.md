@@ -35,7 +35,5 @@ Day 1 - Intro to the command line, cloud access, and python
     - Modules
 
 ### Live Coding - biopython
-
-### Group Presentation
     
 ## 3:30-4:00 - Homework Assignment and daily wrap up
