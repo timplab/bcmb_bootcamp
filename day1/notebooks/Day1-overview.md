@@ -8,7 +8,9 @@ Day 1 - Intro to the command line, cloud access, and python
     
 ## 9:30-11:00 - Morning Module
 
-### Live Coding
+### Review of Prerequisite Materials
+
+### Live Coding - Command line access and notebooks
     - The *nix operating system
         + why?
     - How do I remotely (or locally) access a *nix system
@@ -18,7 +20,7 @@ Day 1 - Intro to the command line, cloud access, and python
         + grep
     - Intro to version control with git and github
 
-## 11:00-1:00 - Lunch Exercises
+## 11:00-1:00 - Lunch Review Exercises
 
 ### Group Assignment
     - Command line exercises
@@ -26,14 +28,15 @@ Day 1 - Intro to the command line, cloud access, and python
 
 ## 1:00-3:30 - Afternoon Module
 
-### Live Coding - python
+### Live Coding - Python I (review)
     - What is python?
     - Navigating python via notebooks
     - Basic Data Types
-    - Importing Data
+
+### Live Coding - Python II
     - Functions
     - Modules
-
-### Live Coding - biopython
+    - Flow control
+    - Importing Data
     
 ## 3:30-4:00 - Homework Assignment and daily wrap up
