@@ -20,7 +20,7 @@ Day 4 - Command line programming and web-based bioinformatics
 
 ## 11:00-1:00 - Lunch Exercises
     - ChIPseq
-        + bwa-mem
+        + bowtie2
         + MACS2
         + IGV
 
