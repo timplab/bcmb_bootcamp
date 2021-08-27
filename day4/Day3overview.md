@@ -1,7 +1,7 @@
-Day 3 - Command line programming and web-based bioinformatics
+Day 4 - Command line programming and web-based bioinformatics
 =============================================================
 
-## 9:00-9:30 - review of homework for day 2
+## 9:00-9:30 - review of homework for day 3
     
 ## 9:30-11:00 - Morning Module
 
