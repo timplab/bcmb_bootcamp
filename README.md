@@ -5,15 +5,14 @@
 - Course Coordinator: Sarah Anderson
 - Faculty Instructors:
   - Loyal Goff
-  - Sarah Wheelan
 - Teaching Assistants:
-  - Norah Sadowski
-  - Jared Slosberg
+  - Sheridan Cavalier
+  - Luke Morina
 
 ## Time and Location
 
-**Start Date:** 8/30/2021
-**End Date:** 9/3/2021
+**Start Date:** 8/29/2022
+**End Date:** 9/2/2022
 Classes held on M-F 9AM-4PM in the STILE classroom
 
 ## Communication
