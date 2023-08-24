@@ -7,6 +7,7 @@ Day 2 - Intro to python
 
 ### Live Coding - Python I (review)
     - What is python?
+    - Why python?
     - Navigating python via notebooks
     - Basic Data Types
 
