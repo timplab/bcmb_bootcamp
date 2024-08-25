@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define default password
-DEFAULT_PASSWORD="YourDefaultPassword"  # Replace with your actual password
+DEFAULT_PASSWORD="bootcamp2024"  # Replace with your actual password
 
 # List of usernames derived from email addresses
 USERNAMES=(
@@ -32,21 +32,15 @@ USERNAMES=(
   "ewinnic1"
   "jwong82"
   "fzhong3"
+  "etimp"
 )
 
-# Loop to create users
-for USERNAME in "${USERNAMES[@]}"; do
-
-  # Create user with home directory
-  sudo useradd -m -s /bin/bash "$USERNAME"
-  
-  # Set default password for the user
-  echo "$USERNAME:$DEFAULT_PASSWORD" | sudo chpasswd
-  
-  echo "Created user: $USERNAME"
+# Function to set up Mambaforge and ipykernel for a user
+setup_user_environment() {
+  USERNAME="$1"
   
   # Switch to the user's home directory
-  sudo -H -u "$USERNAME" bash << EOF
+  cd /home/$USERNAME
   
   # Install Mamba Miniforge
   wget https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Linux-x86_64.sh -O Mambaforge.sh
@@ -60,7 +54,24 @@ for USERNAME in "${USERNAMES[@]}"; do
   
   # Register ipykernel with Jupyter
   /home/$USERNAME/mambaforge/bin/python -m ipykernel install --user --name base --display-name "Python (base)"
-EOF
+}
+
+# Loop to create users and set up their environments
+for USERNAME in "${USERNAMES[@]}"; do
+
+  # Create user with home directory
+  sudo useradd -m -s /bin/bash "$USERNAME"
+  
+  # Set default password for the user
+  echo "$USERNAME:$DEFAULT_PASSWORD" | sudo chpasswd
+  
+  echo "Created user: $USERNAME"
+  
+  # Give ownership of the home directory to the new user
+  sudo chown -R "$USERNAME":"$USERNAME" "/home/$USERNAME"
+  
+  # Run the environment setup function as the new user
+  sudo -u "$USERNAME" bash -c "$(declare -f setup_user_environment); setup_user_environment $USERNAME"
 
   echo "Mambaforge installed and ipykernel set up in base environment for user: $USERNAME"
 
