@@ -3,19 +3,17 @@
 ## Instructor Information
 - Course Director: Winston Timp 
 - Course Coordinator: Sarah Anderson
-- Faculty Instructors:
-  - Loyal Goff
 - Teaching Assistants:
-  - Norah Sadowski
-  - Jeanette Johnson
+  - Kyla Woyshner 
+  - Celine Hoh 
 
 ## Time and Location
 
-**Start Date:** 8/28/2023
-**End Date:** 9/1/2023
+**Start Date:** 8/26/2024
+**End Date:** 8/30/2024
 Classes held on M-F 9AM-4PM in the STILE classroom
 
 ## Communication
 Communication with TAs and faculty will be best over slack. 
-Relevant course information will be posted both here and on the course Blackboard.
+Relevant course information will be posted both here and on Canvas.
 
