@@ -1,9 +1,9 @@
 Day 2 - Intro to python
 ===========================================================
 
-## 9:00-9:30 - Homework review
+## 9:00-10:00 - Homework review
     
-## 9:30-11:00 - Morning Module
+## 10:00-11:00 - Morning Module
 
 ### Live Coding - Python I (review)
     - What is python?

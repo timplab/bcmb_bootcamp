@@ -1,11 +1,11 @@
 Day 1 - Intro to the command line, cloud access, and python
 ===========================================================
 
-## 9:00-9:30 - Welcome and Check-in (TAs)
+## 9:00-10:00 - Welcome and Check-in (TAs)
     - Introductions
     - Setting up compute environments
     
-## 9:30-11:00 - Morning Module
+## 10:00-12:00 - Morning Module
 
 ### Review of Prerequisite Materials
 
@@ -18,9 +18,9 @@ Day 1 - Intro to the command line, cloud access, and python
         + File manipulation (ls, cat)
         + grep
 
-## 11:00-1:00 - Lunch Exercises
+## 12:00-1:30 - Lunch Exercises
 
-## 1:00-3:30 - Afternoon Module
+## 1:30-3:30 - Afternoon Module
 ### Live Coding - Unix II
     - More *nix
         + control flow
