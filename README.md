@@ -4,13 +4,13 @@
 - Course Director: Winston Timp 
 - Course Coordinator: Sarah Anderson
 - Teaching Assistants:
-  - Kyla Woyshner 
-  - Celine Hoh 
+  - Jamie Moore
+  - Qingqing Gong
 
 ## Time and Location
 
-**Start Date:** 8/26/2024
-**End Date:** 8/30/2024
+**Start Date:** 8/25/2025
+**End Date:** 8/29/2025
 Classes held on M-F 9AM-4PM in the STILE classroom
 
 ## Communication
