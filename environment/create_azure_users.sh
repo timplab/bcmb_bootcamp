@@ -1,39 +1,25 @@
 #!/bin/bash
 
 # Define default password
-DEFAULT_PASSWORD="bootcamp2024"  # Replace with your actual password
+DEFAULT_PASSWORD="bootcamp2025"  # Replace with your actual password
 
 # List of usernames derived from email addresses
 USERNAMES=(
-  "marnol30"
-  "aatkin31"
-  "cbereda1"
-  "pcann1"
-  "schan102"
-  "achen94"
-  "adavid33"
-  "odimowo1"
-  "adumm1"
-  "ngurley2"
-  "nhagger1"
-  "hhuan131"
-  "dhunt22"
-  "vjiang2"
-  "nle25"
-  "emahone9"
-  "tmandl2"
-  "gmarti85"
-  "pnguye55"
-  "mquint10"
-  "jskidmo2"
-  "mstoppl1"
-  "cvalade1"
-  "pwhite37"
-  "ewinnic1"
-  "jwong82"
-  "fzhong3"
-  "etimp"
+    "hayten1"
+    "bcassat2"
+    "ddu6"
+    "cgardin8"
+    "jgeszte1"
+    "qmewbor1"
+    "smorave1"
+    "speralt1"
+    "ariley27"
+    "bveresk1"
+    "zwei20"
+    "ayanez1"
+    "cyazzie4"
 )
+
 
 # Function to set up Mambaforge and ipykernel for a user
 setup_user_environment() {
@@ -43,17 +29,17 @@ setup_user_environment() {
   cd /home/$USERNAME
   
   # Install Mamba Miniforge
-  wget https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Linux-x86_64.sh -O Mambaforge.sh
-  bash Mambaforge.sh -b -p /home/$USERNAME/mambaforge
+  wget https://github.com/conda-forge/miniforge/releases/download/25.3.1-0/Miniforge3-25.3.1-0-Linux-x86_64.sh -O Miniforge.sh
+  bash Miniforge.sh -b -p /home/$USERNAME/miniforge
   
   # Initialize Mambaforge
-  /home/$USERNAME/mambaforge/bin/conda init bash
+  /home/$USERNAME/miniforge/bin/conda init bash
   
   # Install ipykernel directly in the base environment using Mamba
-  /home/$USERNAME/mambaforge/bin/mamba install -y ipykernel
+  /home/$USERNAME/miniforge/bin/mamba install -y ipykernel
   
   # Register ipykernel with Jupyter
-  /home/$USERNAME/mambaforge/bin/python -m ipykernel install --user --name base --display-name "Python (base)"
+  /home/$USERNAME/miniforge/bin/python -m ipykernel install --user --name base --display-name "Python (base)"
 }
 
 # Loop to create users and set up their environments
@@ -73,7 +59,7 @@ for USERNAME in "${USERNAMES[@]}"; do
   # Run the environment setup function as the new user
   sudo -u "$USERNAME" bash -c "$(declare -f setup_user_environment); setup_user_environment $USERNAME"
 
-  echo "Mambaforge installed and ipykernel set up in base environment for user: $USERNAME"
+  echo "Miniforge installed and ipykernel set up in base environment for user: $USERNAME"
 
 done
 
