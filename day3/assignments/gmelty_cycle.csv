@@ -1,0 +1,361 @@
+,GID,YORF,GWEIGHT,gene_name,biofun,molfun,sysname,genenum,conditiontime,expression,metab,grate
+108,GENE1312X,A_06_P3432,1,ZPR1       , regulation of progression through cell cycle , protein binding , YGR211W , 1082106,G0.05,0.0,G,0.05
+118,GENE3816X,A_06_P2720,1,PTC2       , G1/S transition of mitotic cell cycle* , protein phosphatase type 2C activity , YER089C , 1084958,G0.05,-1.04,G,0.05
+434,GENE3053X,A_06_P1181,1,PIN4       , G2/M transition of mitotic cell cycle* , molecular function unknown , YBL051C , 1084089,G0.05,-0.71,G,0.05
+445,GENE1659X,A_06_P1385,1,HSL7       , regulation of progression through cell cycle* , protein-arginine N-methyltransferase activity , YBR133C , 1082505,G0.05,-0.56,G,0.05
+466,GENE589X,A_06_P4710,1,SIS2       , G1/S transition of mitotic cell cycle* , phosphopantothenoylcysteine decarboxylase activity* , YKR072C , 1081300,G0.05,0.16,G,0.05
+657,GENE2894X,A_06_P4997,1,TOS4       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YLR183C , 1083905,G0.05,-2.0,G,0.05
+658,GENE5330X,A_06_P3329,1,CLB6       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YGR109C , 1086692,G0.05,-1.98,G,0.05
+682,GENE952X,A_06_P1629,1,SAT4       , G1/S transition of mitotic cell cycle* , protein kinase activity , YCR008W , 1081714,G0.05,-0.93,G,0.05
+706,GENE1224X,A_06_P1858,1,PCL2       , cell cycle , cyclin-dependent protein kinase regulator activity , YDL127W , 1082011,G0.05,-1.19,G,0.05
+1077,GENE289X,A_06_P3185,1,SAP4       , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YGL229C , 1080949,G0.05,-0.49,G,0.05
+1112,GENE2219X,A_06_P1793,1,UBC9       , G2/M transition of mitotic cell cycle* , ubiquitin-like conjugating enzyme activity , YDL064W , 1083140,G0.05,-0.45,G,0.05
+1132,GENE4017X,A_06_P1913,1,PCL9       , cell cycle , cyclin-dependent protein kinase regulator activity , YDL179W , 1085191,G0.05,-1.15,G,0.05
+1385,GENE5525X,A_06_P5029,1,CDC123     , regulation of progression through mitotic cell cycle , molecular function unknown , YLR215C , 1086912,G0.05,-0.13,G,0.05
+1844,GENE1387X,A_06_P5465,1,MIH1       , G2/M transition of mitotic cell cycle* , protein tyrosine phosphatase activity , YMR036C , 1082194,G0.05,0.04,G,0.05
+2001,GENE1044X,A_06_P5024,1,CLB4       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YLR210W , 1081810,G0.05,-0.54,G,0.05
+2003,GENE2918X,A_06_P2134,1,SWI5       , G1-specific transcription in mitotic cell cycle , transcriptional activator activity , YDR146C , 1083930,G0.05,-0.75,G,0.05
+2024,GENE5452X,A_06_P2494,1,PLM2       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YDR501W , 1086832,G0.05,-1.27,G,0.05
+2030,GENE1454X,A_06_P7160,1,PIS1       , cell cycle* , CDP-diacylglycerol-inositol 3-phosphatidyltransferase activity , YPR113W , 1082273,G0.05,-1.48,G,0.05
+2042,GENE4612X,A_06_P4209,1,SWE1       , G2/M transition of mitotic cell cycle* , protein kinase activity , YJL187C , 1085861,G0.05,-1.16,G,0.05
+2314,GENE4932X,A_06_P6326,1,HRT1       , G1/S transition of mitotic cell cycle* , protein binding* , YOL133W , 1086231,G0.05,0.07,G,0.05
+2517,GENE5471X,A_06_P2743,1,SWI4       , G1/S transition of mitotic cell cycle* , transcription factor activity , YER111C , 1086853,G0.05,-0.06,G,0.05
+2519,GENE3799X,A_06_P6736,1,NDD1       , G2/M-specific transcription in mitotic cell cycle , transcriptional activator activity , YOR372C , 1084939,G0.05,-0.17,G,0.05
+2688,GENE2553X,A_06_P3328,1,CLB1       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YGR108W , 1083517,G0.05,-0.22,G,0.05
+2693,GENE306X,A_06_P2041,1,CDC34      , G1/S transition of mitotic cell cycle* , ubiquitin-protein ligase activity* , YDR054C , 1080968,G0.05,0.54,G,0.05
+2740,GENE2135X,A_06_P3170,1,CLG1       , cell cycle , cyclin-dependent protein kinase regulator activity , YGL215W , 1083039,G0.05,0.17,G,0.05
+2771,GENE4066X,A_06_P3269,1,SCM4       , cell cycle , molecular function unknown , YGR049W , 1085248,G0.05,0.17,G,0.05
+2772,GENE4448X,A_06_P7166,1,CLB2       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YPR119W , 1085669,G0.05,-0.48,G,0.05
+2948,GENE2694X,A_06_P3644,1,PCL5       , cell cycle , cyclin-dependent protein kinase regulator activity , YHR071W , 1083682,G0.05,2.0,G,0.05
+2997,GENE1050X,A_06_P4384,1,HIR3       , G1/S-specific transcription in mitotic cell cycle , transcription corepressor activity , YJR140C , 1081817,G0.05,0.25,G,0.05
+3032,GENE339X,A_06_P7167,1,CLB5       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YPR120C , 1081012,G0.05,0.14,G,0.05
+3111,GENE1883X,A_06_P5479,1,FAR3       , cell cycle arrest in response to pheromone , molecular function unknown , YMR052W , 1082754,G0.05,0.35,G,0.05
+3221,GENE5294X,A_06_P1644,1,HTL1       , regulation of progression through cell cycle* , molecular function unknown , YCR020W-B , 1086649,G0.05,-0.21,G,0.05
+3387,GENE4012X,A_06_P3051,1,TOS8       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YGL096W , 1085186,G0.05,0.8,G,0.05
+3429,GENE3808X,A_06_P5457,1,FAR8       , cell cycle arrest in response to pheromone , molecular function unknown , YMR029C , 1084948,G0.05,-0.03,G,0.05
+3483,GENE2110X,A_06_P5052,1,FAR10      , cell cycle arrest in response to pheromone , molecular function unknown , YLR238W , 1083013,G0.05,-0.14,G,0.05
+3499,GENE5027X,A_06_P1864,1,CDC53      , G1/S transition of mitotic cell cycle* , structural molecule activity* , YDL132W , 1086340,G0.05,-0.16,G,0.05
+3516,GENE2860X,A_06_P4120,1,SAP185     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YJL098W , 1083866,G0.05,-0.17,G,0.05
+3543,GENE3146X,A_06_P4747,1,SFI1       , G2/M transition of mitotic cell cycle* , molecular function unknown , YLL003W , 1084198,G0.05,0.1,G,0.05
+3639,GENE2091X,A_06_P2902,1,FAR7       , cell cycle arrest in response to pheromone , molecular function unknown , YFR008W , 1082993,G0.05,0.51,G,0.05
+3831,GENE645X,A_06_P4332,1,GRR1       , G1/S transition of mitotic cell cycle* , protein binding* , YJR090C , 1081364,G0.05,0.12,G,0.05
+4412,GENE1055X,A_06_P6779,1,ULP1       , G2/M transition of mitotic cell cycle* , cysteine-type peptidase activity* , YPL020C , 1081823,G0.05,0.52,G,0.05
+4434,GENE4838X,A_06_P5126,1,CDC25      , regulation of progression through cell cycle* , Ras guanyl-nucleotide exchange factor activity , YLR310C , 1086124,G0.05,0.77,G,0.05
+4479,GENE3616X,A_06_P5898,1,FAR11      , cell cycle arrest in response to pheromone , molecular function unknown , YNL127W , 1084728,G0.05,0.15,G,0.05
+4557,GENE1414X,A_06_P6061,1,PCL1       , cell cycle , cyclin-dependent protein kinase regulator activity , YNL289W , 1082226,G0.05,-0.64,G,0.05
+4563,GENE1751X,A_06_P1785,1,MBP1       , regulation of progression through cell cycle* , DNA binding* , YDL056W , 1082606,G0.05,-0.09,G,0.05
+4727,GENE1849X,A_06_P1064,1,CLN3       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YAL040C , 1082719,G0.05,-0.31,G,0.05
+4822,GENE72X,A_06_P7122,1,OPY2       , cell cycle arrest in response to pheromone , molecular function unknown , YPR075C , 1080703,G0.05,1.07,G,0.05
+4850,GENE1231X,A_06_P2938,1,SAP155     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YFR040W , 1082019,G0.05,0.09,G,0.05
+4894,GENE4310X,A_06_P4665,1,SAP190     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YKR028W , 1085522,G0.05,-0.12,G,0.05
+4901,GENE1577X,A_06_P2799,1,BCK2       , G1/S transition of mitotic cell cycle* , molecular function unknown , YER167W , 1082408,G0.05,0.1,G,0.05
+4913,GENE5221X,A_06_P1468,1,HPC2       , G1/S-specific transcription in mitotic cell cycle , transcription regulator activity , YBR215W , 1086565,G0.05,0.04,G,0.05
+4980,GENE1614X,A_06_P1888,1,CLB3       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YDL155W , 1082456,G0.05,-0.32,G,0.05
+5129,GENE1262X,A_06_P4944,1,ACE2       , G1-specific transcription in mitotic cell cycle , transcriptional activator activity , YLR131C , 1082052,G0.05,-0.49,G,0.05
+5160,GENE84X,A_06_P6081,1,STB1       , G1/S transition of mitotic cell cycle , transcriptional activator activity , YNL309W , 1080716,G0.05,-0.61,G,0.05
+5165,GENE4407X,A_06_P3934,1,VHS2       , G1/S transition of mitotic cell cycle , molecular function unknown , YIL135C , 1085625,G0.05,-0.47,G,0.05
+5321,GENE3589X,A_06_P6416,1,VHS3       , G1/S transition of mitotic cell cycle* , phosphopantothenoylcysteine decarboxylase activity* , YOR054C , 1084698,G0.05,0.92,G,0.05
+5325,GENE87X,A_06_P4891,1,SIC1       , G1/S transition of mitotic cell cycle* , protein binding* , YLR079W , 1080719,G0.05,0.53,G,0.05
+5377,GENE317X,A_06_P2832,1,CDC4       , G1/S transition of mitotic cell cycle* , protein binding* , YFL009W , 1080982,G0.05,0.38,G,0.05
+5396,GENE1372X,A_06_P4302,1,PTK2       , G1/S transition of mitotic cell cycle* , protein kinase activity , YJR059W , 1082178,G0.05,0.28,G,0.05
+5475,GENE799X,A_06_P3921,1,POG1       , G1/S-specific transcription in mitotic cell cycle* , specific RNA polymerase II transcription factor activity , YIL122W , 1081544,G0.05,-0.12,G,0.05
+5645,GENE1312X,A_06_P3432,1,ZPR1       , regulation of progression through cell cycle , protein binding , YGR211W , 1082106,G0.1,-0.66,G,0.1
+5655,GENE3816X,A_06_P2720,1,PTC2       , G1/S transition of mitotic cell cycle* , protein phosphatase type 2C activity , YER089C , 1084958,G0.1,-0.5,G,0.1
+5971,GENE3053X,A_06_P1181,1,PIN4       , G2/M transition of mitotic cell cycle* , molecular function unknown , YBL051C , 1084089,G0.1,-0.77,G,0.1
+5982,GENE1659X,A_06_P1385,1,HSL7       , regulation of progression through cell cycle* , protein-arginine N-methyltransferase activity , YBR133C , 1082505,G0.1,-0.42,G,0.1
+6003,GENE589X,A_06_P4710,1,SIS2       , G1/S transition of mitotic cell cycle* , phosphopantothenoylcysteine decarboxylase activity* , YKR072C , 1081300,G0.1,-0.16,G,0.1
+6194,GENE2894X,A_06_P4997,1,TOS4       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YLR183C , 1083905,G0.1,-1.46,G,0.1
+6195,GENE5330X,A_06_P3329,1,CLB6       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YGR109C , 1086692,G0.1,-1.76,G,0.1
+6219,GENE952X,A_06_P1629,1,SAT4       , G1/S transition of mitotic cell cycle* , protein kinase activity , YCR008W , 1081714,G0.1,-0.6,G,0.1
+6243,GENE1224X,A_06_P1858,1,PCL2       , cell cycle , cyclin-dependent protein kinase regulator activity , YDL127W , 1082011,G0.1,-0.52,G,0.1
+6614,GENE289X,A_06_P3185,1,SAP4       , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YGL229C , 1080949,G0.1,-0.4,G,0.1
+6649,GENE2219X,A_06_P1793,1,UBC9       , G2/M transition of mitotic cell cycle* , ubiquitin-like conjugating enzyme activity , YDL064W , 1083140,G0.1,-0.34,G,0.1
+6669,GENE4017X,A_06_P1913,1,PCL9       , cell cycle , cyclin-dependent protein kinase regulator activity , YDL179W , 1085191,G0.1,-0.55,G,0.1
+6922,GENE5525X,A_06_P5029,1,CDC123     , regulation of progression through mitotic cell cycle , molecular function unknown , YLR215C , 1086912,G0.1,-0.16,G,0.1
+7381,GENE1387X,A_06_P5465,1,MIH1       , G2/M transition of mitotic cell cycle* , protein tyrosine phosphatase activity , YMR036C , 1082194,G0.1,0.04,G,0.1
+7538,GENE1044X,A_06_P5024,1,CLB4       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YLR210W , 1081810,G0.1,-0.43,G,0.1
+7540,GENE2918X,A_06_P2134,1,SWI5       , G1-specific transcription in mitotic cell cycle , transcriptional activator activity , YDR146C , 1083930,G0.1,-0.5,G,0.1
+7561,GENE5452X,A_06_P2494,1,PLM2       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YDR501W , 1086832,G0.1,-1.13,G,0.1
+7567,GENE1454X,A_06_P7160,1,PIS1       , cell cycle* , CDP-diacylglycerol-inositol 3-phosphatidyltransferase activity , YPR113W , 1082273,G0.1,-1.36,G,0.1
+7579,GENE4612X,A_06_P4209,1,SWE1       , G2/M transition of mitotic cell cycle* , protein kinase activity , YJL187C , 1085861,G0.1,-0.8,G,0.1
+7851,GENE4932X,A_06_P6326,1,HRT1       , G1/S transition of mitotic cell cycle* , protein binding* , YOL133W , 1086231,G0.1,0.16,G,0.1
+8054,GENE5471X,A_06_P2743,1,SWI4       , G1/S transition of mitotic cell cycle* , transcription factor activity , YER111C , 1086853,G0.1,-0.24,G,0.1
+8056,GENE3799X,A_06_P6736,1,NDD1       , G2/M-specific transcription in mitotic cell cycle , transcriptional activator activity , YOR372C , 1084939,G0.1,-0.3,G,0.1
+8225,GENE2553X,A_06_P3328,1,CLB1       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YGR108W , 1083517,G0.1,-0.01,G,0.1
+8230,GENE306X,A_06_P2041,1,CDC34      , G1/S transition of mitotic cell cycle* , ubiquitin-protein ligase activity* , YDR054C , 1080968,G0.1,0.2,G,0.1
+8277,GENE2135X,A_06_P3170,1,CLG1       , cell cycle , cyclin-dependent protein kinase regulator activity , YGL215W , 1083039,G0.1,0.15,G,0.1
+8308,GENE4066X,A_06_P3269,1,SCM4       , cell cycle , molecular function unknown , YGR049W , 1085248,G0.1,-0.19,G,0.1
+8309,GENE4448X,A_06_P7166,1,CLB2       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YPR119W , 1085669,G0.1,-0.23,G,0.1
+8485,GENE2694X,A_06_P3644,1,PCL5       , cell cycle , cyclin-dependent protein kinase regulator activity , YHR071W , 1083682,G0.1,1.75,G,0.1
+8534,GENE1050X,A_06_P4384,1,HIR3       , G1/S-specific transcription in mitotic cell cycle , transcription corepressor activity , YJR140C , 1081817,G0.1,0.17,G,0.1
+8569,GENE339X,A_06_P7167,1,CLB5       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YPR120C , 1081012,G0.1,0.22,G,0.1
+8648,GENE1883X,A_06_P5479,1,FAR3       , cell cycle arrest in response to pheromone , molecular function unknown , YMR052W , 1082754,G0.1,0.26,G,0.1
+8758,GENE5294X,A_06_P1644,1,HTL1       , regulation of progression through cell cycle* , molecular function unknown , YCR020W-B , 1086649,G0.1,0.51,G,0.1
+8924,GENE4012X,A_06_P3051,1,TOS8       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YGL096W , 1085186,G0.1,0.6,G,0.1
+8966,GENE3808X,A_06_P5457,1,FAR8       , cell cycle arrest in response to pheromone , molecular function unknown , YMR029C , 1084948,G0.1,0.0,G,0.1
+9020,GENE2110X,A_06_P5052,1,FAR10      , cell cycle arrest in response to pheromone , molecular function unknown , YLR238W , 1083013,G0.1,-0.07,G,0.1
+9036,GENE5027X,A_06_P1864,1,CDC53      , G1/S transition of mitotic cell cycle* , structural molecule activity* , YDL132W , 1086340,G0.1,-0.08,G,0.1
+9053,GENE2860X,A_06_P4120,1,SAP185     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YJL098W , 1083866,G0.1,-0.08,G,0.1
+9080,GENE3146X,A_06_P4747,1,SFI1       , G2/M transition of mitotic cell cycle* , molecular function unknown , YLL003W , 1084198,G0.1,0.06,G,0.1
+9176,GENE2091X,A_06_P2902,1,FAR7       , cell cycle arrest in response to pheromone , molecular function unknown , YFR008W , 1082993,G0.1,0.43,G,0.1
+9368,GENE645X,A_06_P4332,1,GRR1       , G1/S transition of mitotic cell cycle* , protein binding* , YJR090C , 1081364,G0.1,0.07,G,0.1
+9949,GENE1055X,A_06_P6779,1,ULP1       , G2/M transition of mitotic cell cycle* , cysteine-type peptidase activity* , YPL020C , 1081823,G0.1,0.16,G,0.1
+9971,GENE4838X,A_06_P5126,1,CDC25      , regulation of progression through cell cycle* , Ras guanyl-nucleotide exchange factor activity , YLR310C , 1086124,G0.1,0.42,G,0.1
+10016,GENE3616X,A_06_P5898,1,FAR11      , cell cycle arrest in response to pheromone , molecular function unknown , YNL127W , 1084728,G0.1,0.24,G,0.1
+10094,GENE1414X,A_06_P6061,1,PCL1       , cell cycle , cyclin-dependent protein kinase regulator activity , YNL289W , 1082226,G0.1,-0.46,G,0.1
+10100,GENE1751X,A_06_P1785,1,MBP1       , regulation of progression through cell cycle* , DNA binding* , YDL056W , 1082606,G0.1,-0.28,G,0.1
+10264,GENE1849X,A_06_P1064,1,CLN3       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YAL040C , 1082719,G0.1,-0.84,G,0.1
+10359,GENE72X,A_06_P7122,1,OPY2       , cell cycle arrest in response to pheromone , molecular function unknown , YPR075C , 1080703,G0.1,0.4,G,0.1
+10387,GENE1231X,A_06_P2938,1,SAP155     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YFR040W , 1082019,G0.1,0.01,G,0.1
+10431,GENE4310X,A_06_P4665,1,SAP190     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YKR028W , 1085522,G0.1,0.07,G,0.1
+10438,GENE1577X,A_06_P2799,1,BCK2       , G1/S transition of mitotic cell cycle* , molecular function unknown , YER167W , 1082408,G0.1,-0.01,G,0.1
+10450,GENE5221X,A_06_P1468,1,HPC2       , G1/S-specific transcription in mitotic cell cycle , transcription regulator activity , YBR215W , 1086565,G0.1,-0.32,G,0.1
+10517,GENE1614X,A_06_P1888,1,CLB3       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YDL155W , 1082456,G0.1,-0.28,G,0.1
+10666,GENE1262X,A_06_P4944,1,ACE2       , G1-specific transcription in mitotic cell cycle , transcriptional activator activity , YLR131C , 1082052,G0.1,-0.56,G,0.1
+10697,GENE84X,A_06_P6081,1,STB1       , G1/S transition of mitotic cell cycle , transcriptional activator activity , YNL309W , 1080716,G0.1,-0.43,G,0.1
+10702,GENE4407X,A_06_P3934,1,VHS2       , G1/S transition of mitotic cell cycle , molecular function unknown , YIL135C , 1085625,G0.1,-0.51,G,0.1
+10858,GENE3589X,A_06_P6416,1,VHS3       , G1/S transition of mitotic cell cycle* , phosphopantothenoylcysteine decarboxylase activity* , YOR054C , 1084698,G0.1,0.48,G,0.1
+10862,GENE87X,A_06_P4891,1,SIC1       , G1/S transition of mitotic cell cycle* , protein binding* , YLR079W , 1080719,G0.1,0.29,G,0.1
+10914,GENE317X,A_06_P2832,1,CDC4       , G1/S transition of mitotic cell cycle* , protein binding* , YFL009W , 1080982,G0.1,0.23,G,0.1
+10933,GENE1372X,A_06_P4302,1,PTK2       , G1/S transition of mitotic cell cycle* , protein kinase activity , YJR059W , 1082178,G0.1,-0.09,G,0.1
+11012,GENE799X,A_06_P3921,1,POG1       , G1/S-specific transcription in mitotic cell cycle* , specific RNA polymerase II transcription factor activity , YIL122W , 1081544,G0.1,-0.23,G,0.1
+11182,GENE1312X,A_06_P3432,1,ZPR1       , regulation of progression through cell cycle , protein binding , YGR211W , 1082106,G0.15,-0.56,G,0.15
+11192,GENE3816X,A_06_P2720,1,PTC2       , G1/S transition of mitotic cell cycle* , protein phosphatase type 2C activity , YER089C , 1084958,G0.15,-0.02,G,0.15
+11508,GENE3053X,A_06_P1181,1,PIN4       , G2/M transition of mitotic cell cycle* , molecular function unknown , YBL051C , 1084089,G0.15,-0.27,G,0.15
+11519,GENE1659X,A_06_P1385,1,HSL7       , regulation of progression through cell cycle* , protein-arginine N-methyltransferase activity , YBR133C , 1082505,G0.15,-0.23,G,0.15
+11540,GENE589X,A_06_P4710,1,SIS2       , G1/S transition of mitotic cell cycle* , phosphopantothenoylcysteine decarboxylase activity* , YKR072C , 1081300,G0.15,0.14,G,0.15
+11731,GENE2894X,A_06_P4997,1,TOS4       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YLR183C , 1083905,G0.15,-1.42,G,0.15
+11732,GENE5330X,A_06_P3329,1,CLB6       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YGR109C , 1086692,G0.15,-1.32,G,0.15
+11756,GENE952X,A_06_P1629,1,SAT4       , G1/S transition of mitotic cell cycle* , protein kinase activity , YCR008W , 1081714,G0.15,-0.59,G,0.15
+11780,GENE1224X,A_06_P1858,1,PCL2       , cell cycle , cyclin-dependent protein kinase regulator activity , YDL127W , 1082011,G0.15,-0.55,G,0.15
+12151,GENE289X,A_06_P3185,1,SAP4       , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YGL229C , 1080949,G0.15,-0.35,G,0.15
+12186,GENE2219X,A_06_P1793,1,UBC9       , G2/M transition of mitotic cell cycle* , ubiquitin-like conjugating enzyme activity , YDL064W , 1083140,G0.15,-0.22,G,0.15
+12206,GENE4017X,A_06_P1913,1,PCL9       , cell cycle , cyclin-dependent protein kinase regulator activity , YDL179W , 1085191,G0.15,0.29,G,0.15
+12459,GENE5525X,A_06_P5029,1,CDC123     , regulation of progression through mitotic cell cycle , molecular function unknown , YLR215C , 1086912,G0.15,-0.14,G,0.15
+12918,GENE1387X,A_06_P5465,1,MIH1       , G2/M transition of mitotic cell cycle* , protein tyrosine phosphatase activity , YMR036C , 1082194,G0.15,0.01,G,0.15
+13075,GENE1044X,A_06_P5024,1,CLB4       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YLR210W , 1081810,G0.15,-0.34,G,0.15
+13077,GENE2918X,A_06_P2134,1,SWI5       , G1-specific transcription in mitotic cell cycle , transcriptional activator activity , YDR146C , 1083930,G0.15,-0.59,G,0.15
+13098,GENE5452X,A_06_P2494,1,PLM2       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YDR501W , 1086832,G0.15,-0.94,G,0.15
+13104,GENE1454X,A_06_P7160,1,PIS1       , cell cycle* , CDP-diacylglycerol-inositol 3-phosphatidyltransferase activity , YPR113W , 1082273,G0.15,-1.31,G,0.15
+13116,GENE4612X,A_06_P4209,1,SWE1       , G2/M transition of mitotic cell cycle* , protein kinase activity , YJL187C , 1085861,G0.15,-0.65,G,0.15
+13388,GENE4932X,A_06_P6326,1,HRT1       , G1/S transition of mitotic cell cycle* , protein binding* , YOL133W , 1086231,G0.15,-0.17,G,0.15
+13591,GENE5471X,A_06_P2743,1,SWI4       , G1/S transition of mitotic cell cycle* , transcription factor activity , YER111C , 1086853,G0.15,0.06,G,0.15
+13593,GENE3799X,A_06_P6736,1,NDD1       , G2/M-specific transcription in mitotic cell cycle , transcriptional activator activity , YOR372C , 1084939,G0.15,-0.06,G,0.15
+13762,GENE2553X,A_06_P3328,1,CLB1       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YGR108W , 1083517,G0.15,-0.35,G,0.15
+13767,GENE306X,A_06_P2041,1,CDC34      , G1/S transition of mitotic cell cycle* , ubiquitin-protein ligase activity* , YDR054C , 1080968,G0.15,0.27,G,0.15
+13814,GENE2135X,A_06_P3170,1,CLG1       , cell cycle , cyclin-dependent protein kinase regulator activity , YGL215W , 1083039,G0.15,0.01,G,0.15
+13845,GENE4066X,A_06_P3269,1,SCM4       , cell cycle , molecular function unknown , YGR049W , 1085248,G0.15,0.01,G,0.15
+13846,GENE4448X,A_06_P7166,1,CLB2       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YPR119W , 1085669,G0.15,-0.36,G,0.15
+14022,GENE2694X,A_06_P3644,1,PCL5       , cell cycle , cyclin-dependent protein kinase regulator activity , YHR071W , 1083682,G0.15,0.96,G,0.15
+14071,GENE1050X,A_06_P4384,1,HIR3       , G1/S-specific transcription in mitotic cell cycle , transcription corepressor activity , YJR140C , 1081817,G0.15,0.43,G,0.15
+14106,GENE339X,A_06_P7167,1,CLB5       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YPR120C , 1081012,G0.15,-0.03,G,0.15
+14185,GENE1883X,A_06_P5479,1,FAR3       , cell cycle arrest in response to pheromone , molecular function unknown , YMR052W , 1082754,G0.15,0.04,G,0.15
+14295,GENE5294X,A_06_P1644,1,HTL1       , regulation of progression through cell cycle* , molecular function unknown , YCR020W-B , 1086649,G0.15,-0.01,G,0.15
+14461,GENE4012X,A_06_P3051,1,TOS8       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YGL096W , 1085186,G0.15,0.46,G,0.15
+14503,GENE3808X,A_06_P5457,1,FAR8       , cell cycle arrest in response to pheromone , molecular function unknown , YMR029C , 1084948,G0.15,-0.01,G,0.15
+14557,GENE2110X,A_06_P5052,1,FAR10      , cell cycle arrest in response to pheromone , molecular function unknown , YLR238W , 1083013,G0.15,0.01,G,0.15
+14573,GENE5027X,A_06_P1864,1,CDC53      , G1/S transition of mitotic cell cycle* , structural molecule activity* , YDL132W , 1086340,G0.15,0.11,G,0.15
+14590,GENE2860X,A_06_P4120,1,SAP185     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YJL098W , 1083866,G0.15,-0.05,G,0.15
+14617,GENE3146X,A_06_P4747,1,SFI1       , G2/M transition of mitotic cell cycle* , molecular function unknown , YLL003W , 1084198,G0.15,-0.22,G,0.15
+14713,GENE2091X,A_06_P2902,1,FAR7       , cell cycle arrest in response to pheromone , molecular function unknown , YFR008W , 1082993,G0.15,0.15,G,0.15
+14905,GENE645X,A_06_P4332,1,GRR1       , G1/S transition of mitotic cell cycle* , protein binding* , YJR090C , 1081364,G0.15,0.02,G,0.15
+15486,GENE1055X,A_06_P6779,1,ULP1       , G2/M transition of mitotic cell cycle* , cysteine-type peptidase activity* , YPL020C , 1081823,G0.15,0.35,G,0.15
+15508,GENE4838X,A_06_P5126,1,CDC25      , regulation of progression through cell cycle* , Ras guanyl-nucleotide exchange factor activity , YLR310C , 1086124,G0.15,0.59,G,0.15
+15553,GENE3616X,A_06_P5898,1,FAR11      , cell cycle arrest in response to pheromone , molecular function unknown , YNL127W , 1084728,G0.15,0.04,G,0.15
+15631,GENE1414X,A_06_P6061,1,PCL1       , cell cycle , cyclin-dependent protein kinase regulator activity , YNL289W , 1082226,G0.15,-0.51,G,0.15
+15637,GENE1751X,A_06_P1785,1,MBP1       , regulation of progression through cell cycle* , DNA binding* , YDL056W , 1082606,G0.15,0.09,G,0.15
+15801,GENE1849X,A_06_P1064,1,CLN3       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YAL040C , 1082719,G0.15,0.08,G,0.15
+15896,GENE72X,A_06_P7122,1,OPY2       , cell cycle arrest in response to pheromone , molecular function unknown , YPR075C , 1080703,G0.15,0.55,G,0.15
+15924,GENE1231X,A_06_P2938,1,SAP155     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YFR040W , 1082019,G0.15,0.35,G,0.15
+15968,GENE4310X,A_06_P4665,1,SAP190     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YKR028W , 1085522,G0.15,0.27,G,0.15
+15975,GENE1577X,A_06_P2799,1,BCK2       , G1/S transition of mitotic cell cycle* , molecular function unknown , YER167W , 1082408,G0.15,0.33,G,0.15
+15987,GENE5221X,A_06_P1468,1,HPC2       , G1/S-specific transcription in mitotic cell cycle , transcription regulator activity , YBR215W , 1086565,G0.15,-0.09,G,0.15
+16054,GENE1614X,A_06_P1888,1,CLB3       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YDL155W , 1082456,G0.15,-0.09,G,0.15
+16203,GENE1262X,A_06_P4944,1,ACE2       , G1-specific transcription in mitotic cell cycle , transcriptional activator activity , YLR131C , 1082052,G0.15,-0.17,G,0.15
+16234,GENE84X,A_06_P6081,1,STB1       , G1/S transition of mitotic cell cycle , transcriptional activator activity , YNL309W , 1080716,G0.15,-0.11,G,0.15
+16239,GENE4407X,A_06_P3934,1,VHS2       , G1/S transition of mitotic cell cycle , molecular function unknown , YIL135C , 1085625,G0.15,-0.2,G,0.15
+16395,GENE3589X,A_06_P6416,1,VHS3       , G1/S transition of mitotic cell cycle* , phosphopantothenoylcysteine decarboxylase activity* , YOR054C , 1084698,G0.15,0.8,G,0.15
+16399,GENE87X,A_06_P4891,1,SIC1       , G1/S transition of mitotic cell cycle* , protein binding* , YLR079W , 1080719,G0.15,1.02,G,0.15
+16451,GENE317X,A_06_P2832,1,CDC4       , G1/S transition of mitotic cell cycle* , protein binding* , YFL009W , 1080982,G0.15,0.47,G,0.15
+16470,GENE1372X,A_06_P4302,1,PTK2       , G1/S transition of mitotic cell cycle* , protein kinase activity , YJR059W , 1082178,G0.15,0.57,G,0.15
+16549,GENE799X,A_06_P3921,1,POG1       , G1/S-specific transcription in mitotic cell cycle* , specific RNA polymerase II transcription factor activity , YIL122W , 1081544,G0.15,-0.29,G,0.15
+16719,GENE1312X,A_06_P3432,1,ZPR1       , regulation of progression through cell cycle , protein binding , YGR211W , 1082106,G0.2,-0.32,G,0.2
+16729,GENE3816X,A_06_P2720,1,PTC2       , G1/S transition of mitotic cell cycle* , protein phosphatase type 2C activity , YER089C , 1084958,G0.2,-0.2,G,0.2
+17045,GENE3053X,A_06_P1181,1,PIN4       , G2/M transition of mitotic cell cycle* , molecular function unknown , YBL051C , 1084089,G0.2,0.16,G,0.2
+17056,GENE1659X,A_06_P1385,1,HSL7       , regulation of progression through cell cycle* , protein-arginine N-methyltransferase activity , YBR133C , 1082505,G0.2,-0.02,G,0.2
+17077,GENE589X,A_06_P4710,1,SIS2       , G1/S transition of mitotic cell cycle* , phosphopantothenoylcysteine decarboxylase activity* , YKR072C , 1081300,G0.2,0.11,G,0.2
+17268,GENE2894X,A_06_P4997,1,TOS4       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YLR183C , 1083905,G0.2,-1.06,G,0.2
+17269,GENE5330X,A_06_P3329,1,CLB6       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YGR109C , 1086692,G0.2,-0.76,G,0.2
+17293,GENE952X,A_06_P1629,1,SAT4       , G1/S transition of mitotic cell cycle* , protein kinase activity , YCR008W , 1081714,G0.2,-0.36,G,0.2
+17317,GENE1224X,A_06_P1858,1,PCL2       , cell cycle , cyclin-dependent protein kinase regulator activity , YDL127W , 1082011,G0.2,-0.33,G,0.2
+17688,GENE289X,A_06_P3185,1,SAP4       , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YGL229C , 1080949,G0.2,0.09,G,0.2
+17723,GENE2219X,A_06_P1793,1,UBC9       , G2/M transition of mitotic cell cycle* , ubiquitin-like conjugating enzyme activity , YDL064W , 1083140,G0.2,0.05,G,0.2
+17743,GENE4017X,A_06_P1913,1,PCL9       , cell cycle , cyclin-dependent protein kinase regulator activity , YDL179W , 1085191,G0.2,0.38,G,0.2
+17996,GENE5525X,A_06_P5029,1,CDC123     , regulation of progression through mitotic cell cycle , molecular function unknown , YLR215C , 1086912,G0.2,-0.09,G,0.2
+18455,GENE1387X,A_06_P5465,1,MIH1       , G2/M transition of mitotic cell cycle* , protein tyrosine phosphatase activity , YMR036C , 1082194,G0.2,0.05,G,0.2
+18612,GENE1044X,A_06_P5024,1,CLB4       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YLR210W , 1081810,G0.2,-0.19,G,0.2
+18614,GENE2918X,A_06_P2134,1,SWI5       , G1-specific transcription in mitotic cell cycle , transcriptional activator activity , YDR146C , 1083930,G0.2,-0.57,G,0.2
+18635,GENE5452X,A_06_P2494,1,PLM2       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YDR501W , 1086832,G0.2,-1.06,G,0.2
+18641,GENE1454X,A_06_P7160,1,PIS1       , cell cycle* , CDP-diacylglycerol-inositol 3-phosphatidyltransferase activity , YPR113W , 1082273,G0.2,-0.99,G,0.2
+18653,GENE4612X,A_06_P4209,1,SWE1       , G2/M transition of mitotic cell cycle* , protein kinase activity , YJL187C , 1085861,G0.2,-0.29,G,0.2
+18925,GENE4932X,A_06_P6326,1,HRT1       , G1/S transition of mitotic cell cycle* , protein binding* , YOL133W , 1086231,G0.2,-0.28,G,0.2
+19128,GENE5471X,A_06_P2743,1,SWI4       , G1/S transition of mitotic cell cycle* , transcription factor activity , YER111C , 1086853,G0.2,-0.38,G,0.2
+19130,GENE3799X,A_06_P6736,1,NDD1       , G2/M-specific transcription in mitotic cell cycle , transcriptional activator activity , YOR372C , 1084939,G0.2,-0.16,G,0.2
+19299,GENE2553X,A_06_P3328,1,CLB1       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YGR108W , 1083517,G0.2,-0.57,G,0.2
+19304,GENE306X,A_06_P2041,1,CDC34      , G1/S transition of mitotic cell cycle* , ubiquitin-protein ligase activity* , YDR054C , 1080968,G0.2,0.32,G,0.2
+19351,GENE2135X,A_06_P3170,1,CLG1       , cell cycle , cyclin-dependent protein kinase regulator activity , YGL215W , 1083039,G0.2,-0.04,G,0.2
+19382,GENE4066X,A_06_P3269,1,SCM4       , cell cycle , molecular function unknown , YGR049W , 1085248,G0.2,-0.07,G,0.2
+19383,GENE4448X,A_06_P7166,1,CLB2       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YPR119W , 1085669,G0.2,-0.16,G,0.2
+19559,GENE2694X,A_06_P3644,1,PCL5       , cell cycle , cyclin-dependent protein kinase regulator activity , YHR071W , 1083682,G0.2,0.01,G,0.2
+19608,GENE1050X,A_06_P4384,1,HIR3       , G1/S-specific transcription in mitotic cell cycle , transcription corepressor activity , YJR140C , 1081817,G0.2,0.21,G,0.2
+19643,GENE339X,A_06_P7167,1,CLB5       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YPR120C , 1081012,G0.2,0.03,G,0.2
+19722,GENE1883X,A_06_P5479,1,FAR3       , cell cycle arrest in response to pheromone , molecular function unknown , YMR052W , 1082754,G0.2,-0.17,G,0.2
+19832,GENE5294X,A_06_P1644,1,HTL1       , regulation of progression through cell cycle* , molecular function unknown , YCR020W-B , 1086649,G0.2,-0.01,G,0.2
+19998,GENE4012X,A_06_P3051,1,TOS8       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YGL096W , 1085186,G0.2,0.56,G,0.2
+20040,GENE3808X,A_06_P5457,1,FAR8       , cell cycle arrest in response to pheromone , molecular function unknown , YMR029C , 1084948,G0.2,-0.12,G,0.2
+20094,GENE2110X,A_06_P5052,1,FAR10      , cell cycle arrest in response to pheromone , molecular function unknown , YLR238W , 1083013,G0.2,-0.02,G,0.2
+20110,GENE5027X,A_06_P1864,1,CDC53      , G1/S transition of mitotic cell cycle* , structural molecule activity* , YDL132W , 1086340,G0.2,0.13,G,0.2
+20127,GENE2860X,A_06_P4120,1,SAP185     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YJL098W , 1083866,G0.2,-0.2,G,0.2
+20154,GENE3146X,A_06_P4747,1,SFI1       , G2/M transition of mitotic cell cycle* , molecular function unknown , YLL003W , 1084198,G0.2,-0.25,G,0.2
+20250,GENE2091X,A_06_P2902,1,FAR7       , cell cycle arrest in response to pheromone , molecular function unknown , YFR008W , 1082993,G0.2,-0.28,G,0.2
+20442,GENE645X,A_06_P4332,1,GRR1       , G1/S transition of mitotic cell cycle* , protein binding* , YJR090C , 1081364,G0.2,0.0,G,0.2
+21023,GENE1055X,A_06_P6779,1,ULP1       , G2/M transition of mitotic cell cycle* , cysteine-type peptidase activity* , YPL020C , 1081823,G0.2,0.23,G,0.2
+21045,GENE4838X,A_06_P5126,1,CDC25      , regulation of progression through cell cycle* , Ras guanyl-nucleotide exchange factor activity , YLR310C , 1086124,G0.2,0.5,G,0.2
+21090,GENE3616X,A_06_P5898,1,FAR11      , cell cycle arrest in response to pheromone , molecular function unknown , YNL127W , 1084728,G0.2,-0.09,G,0.2
+21168,GENE1414X,A_06_P6061,1,PCL1       , cell cycle , cyclin-dependent protein kinase regulator activity , YNL289W , 1082226,G0.2,-0.15,G,0.2
+21174,GENE1751X,A_06_P1785,1,MBP1       , regulation of progression through cell cycle* , DNA binding* , YDL056W , 1082606,G0.2,-0.14,G,0.2
+21338,GENE1849X,A_06_P1064,1,CLN3       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YAL040C , 1082719,G0.2,-0.03,G,0.2
+21433,GENE72X,A_06_P7122,1,OPY2       , cell cycle arrest in response to pheromone , molecular function unknown , YPR075C , 1080703,G0.2,0.57,G,0.2
+21461,GENE1231X,A_06_P2938,1,SAP155     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YFR040W , 1082019,G0.2,0.32,G,0.2
+21505,GENE4310X,A_06_P4665,1,SAP190     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YKR028W , 1085522,G0.2,0.23,G,0.2
+21512,GENE1577X,A_06_P2799,1,BCK2       , G1/S transition of mitotic cell cycle* , molecular function unknown , YER167W , 1082408,G0.2,0.25,G,0.2
+21524,GENE5221X,A_06_P1468,1,HPC2       , G1/S-specific transcription in mitotic cell cycle , transcription regulator activity , YBR215W , 1086565,G0.2,-0.06,G,0.2
+21591,GENE1614X,A_06_P1888,1,CLB3       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YDL155W , 1082456,G0.2,-0.13,G,0.2
+21740,GENE1262X,A_06_P4944,1,ACE2       , G1-specific transcription in mitotic cell cycle , transcriptional activator activity , YLR131C , 1082052,G0.2,0.1,G,0.2
+21771,GENE84X,A_06_P6081,1,STB1       , G1/S transition of mitotic cell cycle , transcriptional activator activity , YNL309W , 1080716,G0.2,-0.3,G,0.2
+21776,GENE4407X,A_06_P3934,1,VHS2       , G1/S transition of mitotic cell cycle , molecular function unknown , YIL135C , 1085625,G0.2,-0.08,G,0.2
+21932,GENE3589X,A_06_P6416,1,VHS3       , G1/S transition of mitotic cell cycle* , phosphopantothenoylcysteine decarboxylase activity* , YOR054C , 1084698,G0.2,0.87,G,0.2
+21936,GENE87X,A_06_P4891,1,SIC1       , G1/S transition of mitotic cell cycle* , protein binding* , YLR079W , 1080719,G0.2,0.99,G,0.2
+21988,GENE317X,A_06_P2832,1,CDC4       , G1/S transition of mitotic cell cycle* , protein binding* , YFL009W , 1080982,G0.2,0.49,G,0.2
+22007,GENE1372X,A_06_P4302,1,PTK2       , G1/S transition of mitotic cell cycle* , protein kinase activity , YJR059W , 1082178,G0.2,0.53,G,0.2
+22086,GENE799X,A_06_P3921,1,POG1       , G1/S-specific transcription in mitotic cell cycle* , specific RNA polymerase II transcription factor activity , YIL122W , 1081544,G0.2,-0.09,G,0.2
+22256,GENE1312X,A_06_P3432,1,ZPR1       , regulation of progression through cell cycle , protein binding , YGR211W , 1082106,G0.25,-0.22,G,0.25
+22266,GENE3816X,A_06_P2720,1,PTC2       , G1/S transition of mitotic cell cycle* , protein phosphatase type 2C activity , YER089C , 1084958,G0.25,-0.17,G,0.25
+22582,GENE3053X,A_06_P1181,1,PIN4       , G2/M transition of mitotic cell cycle* , molecular function unknown , YBL051C , 1084089,G0.25,0.14,G,0.25
+22593,GENE1659X,A_06_P1385,1,HSL7       , regulation of progression through cell cycle* , protein-arginine N-methyltransferase activity , YBR133C , 1082505,G0.25,-0.07,G,0.25
+22614,GENE589X,A_06_P4710,1,SIS2       , G1/S transition of mitotic cell cycle* , phosphopantothenoylcysteine decarboxylase activity* , YKR072C , 1081300,G0.25,0.01,G,0.25
+22805,GENE2894X,A_06_P4997,1,TOS4       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YLR183C , 1083905,G0.25,-0.48,G,0.25
+22806,GENE5330X,A_06_P3329,1,CLB6       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YGR109C , 1086692,G0.25,-0.14,G,0.25
+22830,GENE952X,A_06_P1629,1,SAT4       , G1/S transition of mitotic cell cycle* , protein kinase activity , YCR008W , 1081714,G0.25,-0.36,G,0.25
+22854,GENE1224X,A_06_P1858,1,PCL2       , cell cycle , cyclin-dependent protein kinase regulator activity , YDL127W , 1082011,G0.25,-0.1,G,0.25
+23225,GENE289X,A_06_P3185,1,SAP4       , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YGL229C , 1080949,G0.25,0.15,G,0.25
+23260,GENE2219X,A_06_P1793,1,UBC9       , G2/M transition of mitotic cell cycle* , ubiquitin-like conjugating enzyme activity , YDL064W , 1083140,G0.25,0.22,G,0.25
+23280,GENE4017X,A_06_P1913,1,PCL9       , cell cycle , cyclin-dependent protein kinase regulator activity , YDL179W , 1085191,G0.25,0.01,G,0.25
+23533,GENE5525X,A_06_P5029,1,CDC123     , regulation of progression through mitotic cell cycle , molecular function unknown , YLR215C , 1086912,G0.25,-0.04,G,0.25
+23992,GENE1387X,A_06_P5465,1,MIH1       , G2/M transition of mitotic cell cycle* , protein tyrosine phosphatase activity , YMR036C , 1082194,G0.25,-0.16,G,0.25
+24149,GENE1044X,A_06_P5024,1,CLB4       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YLR210W , 1081810,G0.25,-0.02,G,0.25
+24151,GENE2918X,A_06_P2134,1,SWI5       , G1-specific transcription in mitotic cell cycle , transcriptional activator activity , YDR146C , 1083930,G0.25,0.01,G,0.25
+24172,GENE5452X,A_06_P2494,1,PLM2       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YDR501W , 1086832,G0.25,-0.31,G,0.25
+24178,GENE1454X,A_06_P7160,1,PIS1       , cell cycle* , CDP-diacylglycerol-inositol 3-phosphatidyltransferase activity , YPR113W , 1082273,G0.25,-0.32,G,0.25
+24190,GENE4612X,A_06_P4209,1,SWE1       , G2/M transition of mitotic cell cycle* , protein kinase activity , YJL187C , 1085861,G0.25,0.03,G,0.25
+24462,GENE4932X,A_06_P6326,1,HRT1       , G1/S transition of mitotic cell cycle* , protein binding* , YOL133W , 1086231,G0.25,-0.03,G,0.25
+24665,GENE5471X,A_06_P2743,1,SWI4       , G1/S transition of mitotic cell cycle* , transcription factor activity , YER111C , 1086853,G0.25,-0.05,G,0.25
+24667,GENE3799X,A_06_P6736,1,NDD1       , G2/M-specific transcription in mitotic cell cycle , transcriptional activator activity , YOR372C , 1084939,G0.25,-0.01,G,0.25
+24836,GENE2553X,A_06_P3328,1,CLB1       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YGR108W , 1083517,G0.25,-0.6,G,0.25
+24841,GENE306X,A_06_P2041,1,CDC34      , G1/S transition of mitotic cell cycle* , ubiquitin-protein ligase activity* , YDR054C , 1080968,G0.25,0.06,G,0.25
+24888,GENE2135X,A_06_P3170,1,CLG1       , cell cycle , cyclin-dependent protein kinase regulator activity , YGL215W , 1083039,G0.25,-0.06,G,0.25
+24919,GENE4066X,A_06_P3269,1,SCM4       , cell cycle , molecular function unknown , YGR049W , 1085248,G0.25,0.11,G,0.25
+24920,GENE4448X,A_06_P7166,1,CLB2       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YPR119W , 1085669,G0.25,-0.1,G,0.25
+25096,GENE2694X,A_06_P3644,1,PCL5       , cell cycle , cyclin-dependent protein kinase regulator activity , YHR071W , 1083682,G0.25,-0.3,G,0.25
+25145,GENE1050X,A_06_P4384,1,HIR3       , G1/S-specific transcription in mitotic cell cycle , transcription corepressor activity , YJR140C , 1081817,G0.25,0.28,G,0.25
+25180,GENE339X,A_06_P7167,1,CLB5       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YPR120C , 1081012,G0.25,0.2,G,0.25
+25259,GENE1883X,A_06_P5479,1,FAR3       , cell cycle arrest in response to pheromone , molecular function unknown , YMR052W , 1082754,G0.25,-0.16,G,0.25
+25369,GENE5294X,A_06_P1644,1,HTL1       , regulation of progression through cell cycle* , molecular function unknown , YCR020W-B , 1086649,G0.25,0.28,G,0.25
+25535,GENE4012X,A_06_P3051,1,TOS8       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YGL096W , 1085186,G0.25,0.26,G,0.25
+25577,GENE3808X,A_06_P5457,1,FAR8       , cell cycle arrest in response to pheromone , molecular function unknown , YMR029C , 1084948,G0.25,-0.09,G,0.25
+25631,GENE2110X,A_06_P5052,1,FAR10      , cell cycle arrest in response to pheromone , molecular function unknown , YLR238W , 1083013,G0.25,-0.04,G,0.25
+25647,GENE5027X,A_06_P1864,1,CDC53      , G1/S transition of mitotic cell cycle* , structural molecule activity* , YDL132W , 1086340,G0.25,-0.09,G,0.25
+25664,GENE2860X,A_06_P4120,1,SAP185     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YJL098W , 1083866,G0.25,-0.14,G,0.25
+25691,GENE3146X,A_06_P4747,1,SFI1       , G2/M transition of mitotic cell cycle* , molecular function unknown , YLL003W , 1084198,G0.25,-0.28,G,0.25
+25787,GENE2091X,A_06_P2902,1,FAR7       , cell cycle arrest in response to pheromone , molecular function unknown , YFR008W , 1082993,G0.25,-0.12,G,0.25
+25979,GENE645X,A_06_P4332,1,GRR1       , G1/S transition of mitotic cell cycle* , protein binding* , YJR090C , 1081364,G0.25,-0.09,G,0.25
+26560,GENE1055X,A_06_P6779,1,ULP1       , G2/M transition of mitotic cell cycle* , cysteine-type peptidase activity* , YPL020C , 1081823,G0.25,0.09,G,0.25
+26582,GENE4838X,A_06_P5126,1,CDC25      , regulation of progression through cell cycle* , Ras guanyl-nucleotide exchange factor activity , YLR310C , 1086124,G0.25,0.41,G,0.25
+26627,GENE3616X,A_06_P5898,1,FAR11      , cell cycle arrest in response to pheromone , molecular function unknown , YNL127W , 1084728,G0.25,-0.16,G,0.25
+26705,GENE1414X,A_06_P6061,1,PCL1       , cell cycle , cyclin-dependent protein kinase regulator activity , YNL289W , 1082226,G0.25,-0.05,G,0.25
+26711,GENE1751X,A_06_P1785,1,MBP1       , regulation of progression through cell cycle* , DNA binding* , YDL056W , 1082606,G0.25,-0.07,G,0.25
+26875,GENE1849X,A_06_P1064,1,CLN3       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YAL040C , 1082719,G0.25,0.04,G,0.25
+26970,GENE72X,A_06_P7122,1,OPY2       , cell cycle arrest in response to pheromone , molecular function unknown , YPR075C , 1080703,G0.25,0.05,G,0.25
+26998,GENE1231X,A_06_P2938,1,SAP155     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YFR040W , 1082019,G0.25,0.09,G,0.25
+27042,GENE4310X,A_06_P4665,1,SAP190     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YKR028W , 1085522,G0.25,-0.05,G,0.25
+27049,GENE1577X,A_06_P2799,1,BCK2       , G1/S transition of mitotic cell cycle* , molecular function unknown , YER167W , 1082408,G0.25,0.08,G,0.25
+27061,GENE5221X,A_06_P1468,1,HPC2       , G1/S-specific transcription in mitotic cell cycle , transcription regulator activity , YBR215W , 1086565,G0.25,-0.09,G,0.25
+27128,GENE1614X,A_06_P1888,1,CLB3       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YDL155W , 1082456,G0.25,-0.02,G,0.25
+27277,GENE1262X,A_06_P4944,1,ACE2       , G1-specific transcription in mitotic cell cycle , transcriptional activator activity , YLR131C , 1082052,G0.25,0.2,G,0.25
+27308,GENE84X,A_06_P6081,1,STB1       , G1/S transition of mitotic cell cycle , transcriptional activator activity , YNL309W , 1080716,G0.25,0.04,G,0.25
+27313,GENE4407X,A_06_P3934,1,VHS2       , G1/S transition of mitotic cell cycle , molecular function unknown , YIL135C , 1085625,G0.25,-0.2,G,0.25
+27469,GENE3589X,A_06_P6416,1,VHS3       , G1/S transition of mitotic cell cycle* , phosphopantothenoylcysteine decarboxylase activity* , YOR054C , 1084698,G0.25,0.12,G,0.25
+27473,GENE87X,A_06_P4891,1,SIC1       , G1/S transition of mitotic cell cycle* , protein binding* , YLR079W , 1080719,G0.25,0.18,G,0.25
+27525,GENE317X,A_06_P2832,1,CDC4       , G1/S transition of mitotic cell cycle* , protein binding* , YFL009W , 1080982,G0.25,0.26,G,0.25
+27544,GENE1372X,A_06_P4302,1,PTK2       , G1/S transition of mitotic cell cycle* , protein kinase activity , YJR059W , 1082178,G0.25,0.05,G,0.25
+27623,GENE799X,A_06_P3921,1,POG1       , G1/S-specific transcription in mitotic cell cycle* , specific RNA polymerase II transcription factor activity , YIL122W , 1081544,G0.25,0.14,G,0.25
+27793,GENE1312X,A_06_P3432,1,ZPR1       , regulation of progression through cell cycle , protein binding , YGR211W , 1082106,G0.3,0.0,G,0.3
+27803,GENE3816X,A_06_P2720,1,PTC2       , G1/S transition of mitotic cell cycle* , protein phosphatase type 2C activity , YER089C , 1084958,G0.3,-0.19,G,0.3
+28119,GENE3053X,A_06_P1181,1,PIN4       , G2/M transition of mitotic cell cycle* , molecular function unknown , YBL051C , 1084089,G0.3,-0.12,G,0.3
+28130,GENE1659X,A_06_P1385,1,HSL7       , regulation of progression through cell cycle* , protein-arginine N-methyltransferase activity , YBR133C , 1082505,G0.3,-0.05,G,0.3
+28151,GENE589X,A_06_P4710,1,SIS2       , G1/S transition of mitotic cell cycle* , phosphopantothenoylcysteine decarboxylase activity* , YKR072C , 1081300,G0.3,0.03,G,0.3
+28342,GENE2894X,A_06_P4997,1,TOS4       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YLR183C , 1083905,G0.3,-0.46,G,0.3
+28343,GENE5330X,A_06_P3329,1,CLB6       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YGR109C , 1086692,G0.3,-0.15,G,0.3
+28367,GENE952X,A_06_P1629,1,SAT4       , G1/S transition of mitotic cell cycle* , protein kinase activity , YCR008W , 1081714,G0.3,-0.49,G,0.3
+28391,GENE1224X,A_06_P1858,1,PCL2       , cell cycle , cyclin-dependent protein kinase regulator activity , YDL127W , 1082011,G0.3,0.03,G,0.3
+28762,GENE289X,A_06_P3185,1,SAP4       , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YGL229C , 1080949,G0.3,0.04,G,0.3
+28797,GENE2219X,A_06_P1793,1,UBC9       , G2/M transition of mitotic cell cycle* , ubiquitin-like conjugating enzyme activity , YDL064W , 1083140,G0.3,0.32,G,0.3
+28817,GENE4017X,A_06_P1913,1,PCL9       , cell cycle , cyclin-dependent protein kinase regulator activity , YDL179W , 1085191,G0.3,0.09,G,0.3
+29070,GENE5525X,A_06_P5029,1,CDC123     , regulation of progression through mitotic cell cycle , molecular function unknown , YLR215C , 1086912,G0.3,0.16,G,0.3
+29529,GENE1387X,A_06_P5465,1,MIH1       , G2/M transition of mitotic cell cycle* , protein tyrosine phosphatase activity , YMR036C , 1082194,G0.3,-0.36,G,0.3
+29686,GENE1044X,A_06_P5024,1,CLB4       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YLR210W , 1081810,G0.3,0.03,G,0.3
+29688,GENE2918X,A_06_P2134,1,SWI5       , G1-specific transcription in mitotic cell cycle , transcriptional activator activity , YDR146C , 1083930,G0.3,-0.13,G,0.3
+29709,GENE5452X,A_06_P2494,1,PLM2       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YDR501W , 1086832,G0.3,-0.01,G,0.3
+29715,GENE1454X,A_06_P7160,1,PIS1       , cell cycle* , CDP-diacylglycerol-inositol 3-phosphatidyltransferase activity , YPR113W , 1082273,G0.3,-0.36,G,0.3
+29727,GENE4612X,A_06_P4209,1,SWE1       , G2/M transition of mitotic cell cycle* , protein kinase activity , YJL187C , 1085861,G0.3,0.0,G,0.3
+29999,GENE4932X,A_06_P6326,1,HRT1       , G1/S transition of mitotic cell cycle* , protein binding* , YOL133W , 1086231,G0.3,0.28,G,0.3
+30202,GENE5471X,A_06_P2743,1,SWI4       , G1/S transition of mitotic cell cycle* , transcription factor activity , YER111C , 1086853,G0.3,-0.25,G,0.3
+30204,GENE3799X,A_06_P6736,1,NDD1       , G2/M-specific transcription in mitotic cell cycle , transcriptional activator activity , YOR372C , 1084939,G0.3,-0.27,G,0.3
+30373,GENE2553X,A_06_P3328,1,CLB1       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YGR108W , 1083517,G0.3,-1.02,G,0.3
+30378,GENE306X,A_06_P2041,1,CDC34      , G1/S transition of mitotic cell cycle* , ubiquitin-protein ligase activity* , YDR054C , 1080968,G0.3,0.03,G,0.3
+30425,GENE2135X,A_06_P3170,1,CLG1       , cell cycle , cyclin-dependent protein kinase regulator activity , YGL215W , 1083039,G0.3,-0.2,G,0.3
+30456,GENE4066X,A_06_P3269,1,SCM4       , cell cycle , molecular function unknown , YGR049W , 1085248,G0.3,0.3,G,0.3
+30457,GENE4448X,A_06_P7166,1,CLB2       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YPR119W , 1085669,G0.3,-0.18,G,0.3
+30633,GENE2694X,A_06_P3644,1,PCL5       , cell cycle , cyclin-dependent protein kinase regulator activity , YHR071W , 1083682,G0.3,-0.31,G,0.3
+30682,GENE1050X,A_06_P4384,1,HIR3       , G1/S-specific transcription in mitotic cell cycle , transcription corepressor activity , YJR140C , 1081817,G0.3,0.28,G,0.3
+30717,GENE339X,A_06_P7167,1,CLB5       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YPR120C , 1081012,G0.3,0.2,G,0.3
+30796,GENE1883X,A_06_P5479,1,FAR3       , cell cycle arrest in response to pheromone , molecular function unknown , YMR052W , 1082754,G0.3,-0.36,G,0.3
+30906,GENE5294X,A_06_P1644,1,HTL1       , regulation of progression through cell cycle* , molecular function unknown , YCR020W-B , 1086649,G0.3,0.36,G,0.3
+31072,GENE4012X,A_06_P3051,1,TOS8       , G1/S-specific transcription in mitotic cell cycle , transcription factor activity , YGL096W , 1085186,G0.3,-0.12,G,0.3
+31114,GENE3808X,A_06_P5457,1,FAR8       , cell cycle arrest in response to pheromone , molecular function unknown , YMR029C , 1084948,G0.3,-0.16,G,0.3
+31168,GENE2110X,A_06_P5052,1,FAR10      , cell cycle arrest in response to pheromone , molecular function unknown , YLR238W , 1083013,G0.3,-0.02,G,0.3
+31184,GENE5027X,A_06_P1864,1,CDC53      , G1/S transition of mitotic cell cycle* , structural molecule activity* , YDL132W , 1086340,G0.3,-0.09,G,0.3
+31201,GENE2860X,A_06_P4120,1,SAP185     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YJL098W , 1083866,G0.3,-0.2,G,0.3
+31228,GENE3146X,A_06_P4747,1,SFI1       , G2/M transition of mitotic cell cycle* , molecular function unknown , YLL003W , 1084198,G0.3,-0.34,G,0.3
+31324,GENE2091X,A_06_P2902,1,FAR7       , cell cycle arrest in response to pheromone , molecular function unknown , YFR008W , 1082993,G0.3,-0.12,G,0.3
+31516,GENE645X,A_06_P4332,1,GRR1       , G1/S transition of mitotic cell cycle* , protein binding* , YJR090C , 1081364,G0.3,-0.09,G,0.3
+32097,GENE1055X,A_06_P6779,1,ULP1       , G2/M transition of mitotic cell cycle* , cysteine-type peptidase activity* , YPL020C , 1081823,G0.3,0.13,G,0.3
+32119,GENE4838X,A_06_P5126,1,CDC25      , regulation of progression through cell cycle* , Ras guanyl-nucleotide exchange factor activity , YLR310C , 1086124,G0.3,0.29,G,0.3
+32164,GENE3616X,A_06_P5898,1,FAR11      , cell cycle arrest in response to pheromone , molecular function unknown , YNL127W , 1084728,G0.3,-0.12,G,0.3
+32242,GENE1414X,A_06_P6061,1,PCL1       , cell cycle , cyclin-dependent protein kinase regulator activity , YNL289W , 1082226,G0.3,-0.44,G,0.3
+32248,GENE1751X,A_06_P1785,1,MBP1       , regulation of progression through cell cycle* , DNA binding* , YDL056W , 1082606,G0.3,-0.16,G,0.3
+32412,GENE1849X,A_06_P1064,1,CLN3       , G1/S transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YAL040C , 1082719,G0.3,0.03,G,0.3
+32507,GENE72X,A_06_P7122,1,OPY2       , cell cycle arrest in response to pheromone , molecular function unknown , YPR075C , 1080703,G0.3,0.07,G,0.3
+32535,GENE1231X,A_06_P2938,1,SAP155     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YFR040W , 1082019,G0.3,-0.33,G,0.3
+32579,GENE4310X,A_06_P4665,1,SAP190     , G1/S transition of mitotic cell cycle , protein serine/threonine phosphatase activity , YKR028W , 1085522,G0.3,-0.32,G,0.3
+32586,GENE1577X,A_06_P2799,1,BCK2       , G1/S transition of mitotic cell cycle* , molecular function unknown , YER167W , 1082408,G0.3,-0.06,G,0.3
+32598,GENE5221X,A_06_P1468,1,HPC2       , G1/S-specific transcription in mitotic cell cycle , transcription regulator activity , YBR215W , 1086565,G0.3,0.0,G,0.3
+32665,GENE1614X,A_06_P1888,1,CLB3       , G2/M transition of mitotic cell cycle* , cyclin-dependent protein kinase regulator activity , YDL155W , 1082456,G0.3,0.0,G,0.3
+32814,GENE1262X,A_06_P4944,1,ACE2       , G1-specific transcription in mitotic cell cycle , transcriptional activator activity , YLR131C , 1082052,G0.3,-0.1,G,0.3
+32845,GENE84X,A_06_P6081,1,STB1       , G1/S transition of mitotic cell cycle , transcriptional activator activity , YNL309W , 1080716,G0.3,-0.16,G,0.3
+32850,GENE4407X,A_06_P3934,1,VHS2       , G1/S transition of mitotic cell cycle , molecular function unknown , YIL135C , 1085625,G0.3,-0.25,G,0.3
+33006,GENE3589X,A_06_P6416,1,VHS3       , G1/S transition of mitotic cell cycle* , phosphopantothenoylcysteine decarboxylase activity* , YOR054C , 1084698,G0.3,-0.3,G,0.3
+33010,GENE87X,A_06_P4891,1,SIC1       , G1/S transition of mitotic cell cycle* , protein binding* , YLR079W , 1080719,G0.3,0.04,G,0.3
+33062,GENE317X,A_06_P2832,1,CDC4       , G1/S transition of mitotic cell cycle* , protein binding* , YFL009W , 1080982,G0.3,0.36,G,0.3
+33081,GENE1372X,A_06_P4302,1,PTK2       , G1/S transition of mitotic cell cycle* , protein kinase activity , YJR059W , 1082178,G0.3,-0.11,G,0.3
+33160,GENE799X,A_06_P3921,1,POG1       , G1/S-specific transcription in mitotic cell cycle* , specific RNA polymerase II transcription factor activity , YIL122W , 1081544,G0.3,-0.06,G,0.3
