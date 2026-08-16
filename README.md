@@ -1,16 +1,18 @@
 # Computational Biology Bootcamp (ME:800.000)
 
 ## Instructor Information
-- Course Director: Winston Timp 
+- Course Director: Winston Timp
+- Faculty:
+  - Loyal Goff
+  - Allen Buskirk
 - Course Coordinator: Sarah Anderson
 - Teaching Assistants:
-  - Jamie Moore
-  - Qingqing Gong
+  - Alyson Hally
 
 ## Time and Location
 
-**Start Date:** 8/25/2025
-**End Date:** 8/29/2025
+**Start Date:** 8/31/2026
+**End Date:** 9/04/2026
 Classes held on M-F 9AM-4PM in the STILE classroom
 
 ## Communication

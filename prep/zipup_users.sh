@@ -3,22 +3,25 @@
 # Define the destination directory for zip files
 DEST_DIR="/home/timp/studentzips"
 
-# List of usernames derived from email addresses
-USERNAMES=(
-    "hayten1"
-    "bcassat2"
-    "ddu6"
-    "cgardin8"
-    "jgeszte1"
-    "qmewbor1"
-    "smorave1"
-    "speralt1"
-    "ariley27"
-    "bveresk1"
-    "zwei20"
-    "ayanez1"
-    "cyazzie4"
-)
+USERNAME_FILE="${1:-}"
+
+if [[ -z "$USERNAME_FILE" || ! -f "$USERNAME_FILE" ]]; then
+  echo "Usage: $0 /path/to/usernames.txt" >&2
+  exit 1
+fi
+
+# Read one username per line. Blank lines are ignored.
+USERNAMES=()
+while IFS= read -r USERNAME || [[ -n "$USERNAME" ]]; do
+  USERNAME="${USERNAME%$'\r'}"
+  [[ -z "$USERNAME" ]] && continue
+  USERNAMES+=("$USERNAME")
+done < "$USERNAME_FILE"
+
+if [[ ${#USERNAMES[@]} -eq 0 ]]; then
+  echo "Error: no usernames found in $USERNAME_FILE." >&2
+  exit 1
+fi
 
 
 # Create the destination directory if it doesn't exist

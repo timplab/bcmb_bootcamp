@@ -1,24 +1,42 @@
 #!/bin/bash
 
-# Define default password
-DEFAULT_PASSWORD="bootcamp2025"  # Replace with your actual password
+USERNAME_FILE="${1:-}"
 
-# List of usernames derived from email addresses
-USERNAMES=(
-    "hayten1"
-    "bcassat2"
-    "ddu6"
-    "cgardin8"
-    "jgeszte1"
-    "qmewbor1"
-    "smorave1"
-    "speralt1"
-    "ariley27"
-    "bveresk1"
-    "zwei20"
-    "ayanez1"
-    "cyazzie4"
-)
+if [[ -z "$USERNAME_FILE" || ! -f "$USERNAME_FILE" ]]; then
+  echo "Usage: $0 /path/to/usernames.txt" >&2
+  exit 1
+fi
+
+# Read one username per line. Blank lines are ignored.
+USERNAMES=()
+while IFS= read -r USERNAME || [[ -n "$USERNAME" ]]; do
+  USERNAME="${USERNAME%$'\r'}"
+  [[ -z "$USERNAME" ]] && continue
+  USERNAMES+=("$USERNAME")
+done < "$USERNAME_FILE"
+
+if [[ ${#USERNAMES[@]} -eq 0 ]]; then
+  echo "Error: no usernames found in $USERNAME_FILE." >&2
+  exit 1
+fi
+
+# Prompt once for the shared initial password without displaying it.
+read -r -s -p "Enter the shared initial password for all bootcamp users: " SHARED_PASSWORD
+echo
+read -r -s -p "Confirm the shared initial password: " SHARED_PASSWORD_CONFIRM
+echo
+
+if [[ -z "$SHARED_PASSWORD" ]]; then
+  echo "Error: password cannot be empty." >&2
+  exit 1
+fi
+
+if [[ "$SHARED_PASSWORD" != "$SHARED_PASSWORD_CONFIRM" ]]; then
+  echo "Error: passwords do not match." >&2
+  exit 1
+fi
+
+unset SHARED_PASSWORD_CONFIRM
 
 
 # Function to set up Mambaforge and ipykernel for a user
@@ -49,7 +67,7 @@ for USERNAME in "${USERNAMES[@]}"; do
   sudo useradd -m -s /bin/bash "$USERNAME"
   
   # Set default password for the user
-  echo "$USERNAME:$DEFAULT_PASSWORD" | sudo chpasswd
+  printf '%s:%s\n' "$USERNAME" "$SHARED_PASSWORD" | sudo chpasswd
   
   echo "Created user: $USERNAME"
   
@@ -62,5 +80,7 @@ for USERNAME in "${USERNAMES[@]}"; do
   echo "Miniforge installed and ipykernel set up in base environment for user: $USERNAME"
 
 done
+
+unset SHARED_PASSWORD
 
 echo "All users created and configured!"
