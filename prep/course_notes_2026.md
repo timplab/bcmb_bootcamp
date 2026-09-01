@@ -6,3 +6,5 @@
     - `for f in /home/*; do sudo cp /home/loyal/bcmb_bootcamp/day1/notebooks/data $f/; done;`
 - Need to auto install python OR live-instruct on how to install python
 - Need to confirm that `mamba`, `python`and Python VSCode extension(s) ('Python' and 'Python Environment', etc.) are installed EARLY ON, because troubleshooting mid week is a pain.
+- Prefer 'Minimamba Envs' over buggy 'Python Environments' in VSCode for managing environments.
+    - Also requires complete restart of VSCode or 'Developer: Reload Window' to see the environments.
