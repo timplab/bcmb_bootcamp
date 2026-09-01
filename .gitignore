@@ -3,5 +3,6 @@ chr1.fa.gz
 .ipynb_checkpoints
 *~
 *.html
+*.pdf
 /day3/notebooks/myOutput.txt
 /REPO_CLEANUP.md
